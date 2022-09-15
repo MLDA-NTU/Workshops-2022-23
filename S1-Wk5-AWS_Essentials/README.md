@@ -1,1 +1,2 @@
-
+Powerpoint file is too big so...
+Here's the link to Google Slides: https://docs.google.com/presentation/d/1mK_Fgp2Nyln2tWbvQwwJauwc04pzWL7NBi5yT4DqB1o/edit?usp=sharing
