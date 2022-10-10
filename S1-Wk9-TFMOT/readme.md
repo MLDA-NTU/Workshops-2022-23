@@ -1,3 +1,5 @@
+#Tensorflow Model Optimization Toolkit
+
 Important: Baseline model needs to be trained before performing model optimization
 
 A summary of the TFMOT workshop
