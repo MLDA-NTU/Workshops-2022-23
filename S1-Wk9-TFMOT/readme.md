@@ -1,4 +1,4 @@
-#Tensorflow Model Optimization Toolkit
+# Tensorflow Model Optimization Toolkit
 
 Important: Baseline model needs to be trained before performing model optimization
 
