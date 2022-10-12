@@ -13,3 +13,5 @@ Steps to run the code
 2. Training Baseline model
 3. Run either weight pruning/weight clustering/quantization
 4. (optional) collaborative optimization
+
+Official TFMOT documentation: https://www.tensorflow.org/model_optimization/guide
